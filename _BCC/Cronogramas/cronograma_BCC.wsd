@@ -1,0 +1,88 @@
+@startgantt cronograma_BCC
+
+/'TODO: tentar usar variáveis do sistema: https://blog.jdriven.com/2017/01/plantuml-pleasantness-using-current-date/  '/
+/'atualizar'/
+!$dataInicio = "	2024-08-05	"
+!$dataFim  = "	2024-12-02	"
+!$Aula01 = $dataInicio		
+!$Aula02 = "	2024-08-12	"
+!$Aula03 = "	2024-08-19	"
+!$Aula04 = "	2024-08-26	"
+!$Aula05 = "	2024-09-02	"
+!$Aula06 = "	2024-09-09	"
+!$Aula07 = "	2024-09-16	"
+!$Aula08 = "	2024-09-23	"
+!$Aula09 = "	2024-09-30	"
+!$Aula10 = "	2024-10-07	"
+!$Aula11 = "	2024-10-14	"
+!$Aula12 = "	2024-10-21	"
+!$Aula13 = "	2024-10-28	"
+!$Aula14 = "	2024-11-04	"
+!$Aula15 = "	2024-11-11	"
+!$Aula16 = "	2024-11-18	"
+!$Aula17 = "	2024-11-25	"
+!$Aula18 = "	2024-12-02	"
+!$Aula18 = $dataFim		
+
+!$dataAtual  = $Aula06
+/'atualizar'/
+
+ganttscale weekly
+
+Project starts $dataInicio
+
+-- cronograma -- 
+[completado] is colored in green
+[completado] starts $dataInicio and ends $dataAtual
+[falta] starts $dataAtual and ends $dataFim
+[falta] is colored in blue
+
+-- Aulas -- 
+[Termo] is colored in Red
+[Termo]  starts $Aula01 and ends $Aula03
+[Aula01] starts $Aula01 and ends $Aula01
+[Aula02] starts $Aula02 and ends $Aula02
+[Aula03] starts $Aula03 and ends $Aula03
+note bottom
+Entrega: Termo de Compromisso
+end note
+[Pré-projeto (BCC)] starts at [Termo]'s end
+[Pré-projeto (BCC)] ends $Aula09
+[Aula04] starts $Aula04 and ends $Aula04
+[Aula05] starts $Aula05 and ends $Aula05
+[Aula06] starts $Aula06 and ends $Aula06
+[Aula07] starts $Aula07 and ends $Aula07
+[Aula08] starts $Aula08 and ends $Aula08
+[Aula09] starts $Aula09 and ends $Aula09
+note bottom
+Entrega: Pré-projeto (BCC) 
+end note
+[Aula10] starts $Aula10 and ends $Aula10
+[Banca] starts at [Pré-projeto (BCC)]'s end with green dashed link
+[Banca] ends $Aula13
+[Aula11] starts $Aula11 and ends $Aula11
+note bottom
+Bancas (BCC) 
+end note
+[Aula12] starts $Aula12 and ends $Aula12
+note bottom
+Bancas (BCC) 
+end note
+[Aula13] starts $Aula13 and ends $Aula13
+[Projeto] starts at [Banca]'s end with cyan dashed link
+[Projeto] ends $Aula17
+[Aula14] starts $Aula14 and ends $Aula14
+[Aula15] starts $Aula15 and ends $Aula15
+[Aula16] starts $Aula16 and ends $Aula16
+[Aula17] starts $Aula17 and ends $Aula17
+note bottom
+Entrega: Projeto 
+end note
+[Final] starts at [Projeto]'s end with blue dashed link
+[Final] ends $Aula18
+note bottom
+Avaliações: Projetos
+end note
+[Aula18] starts $Aula18 and ends $Aula18
+
+@endgantt
