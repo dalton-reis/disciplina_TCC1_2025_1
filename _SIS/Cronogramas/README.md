@@ -1,20 +1,20 @@
-# Cronograma:  2025-1 SIS  
+# Cronograma:   2025-1 BCC  
   
-Local:  Remoto (MS-Teams)  
-Dia da semana:  Quintas (20:20\~22:00)  
+Local:   Remoto (MS-Teams)  
+Dia da semana:   Quintas (18:30\~20:10)  
   
 <!-- [ ] Aviso: Inicio das aulas <> -->  
   
 ## Eventos  
   
 [Semana Acadêmica](https://github.com/dalton-reis/dalton-reis/blob/main/_._/semanaAcademica.md "Semana Acadêmica")  
-<!-- [SEMINCO](https://github.com/dalton-reis/dalton-reis/blob/main/_._/seminco.md "SEMINCO")   -->
+<!-- [SEMINCO](https://github.com/dalton-reis/dalton-reis/blob/main/_._/seminco.md "SEMINCO")  -->  
   
 ## Observações de Entrega  
   
 - todas as entregas ([Termo de Compromisso](../Aulas/aula01Anotacoes.md#termo-de-compromisso "Termo de Compromisso"), [Pré-Projeto](../Aulas/aula02Anotacoes.md#modelos-projetos "Pré-Projeto") e [Projeto](../Aulas/aula02Anotacoes.md#modelos-projetos "Projeto")) devem ser encaminhadas por e-mail ao orientador que deverá repassar para o professor de TCC1 com um “De acordo”. Não encaminhe nada direto para o professor de TCC1 pois não será considerado válido;  
 - certifique-se com o professor de TCC1 se o orientador fez o encaminhamento para o professor de TCC1;  
-- encaminhamentos que não forem feitos (para o Pré-Projeto e Projeto) em até no máximo 3 dias após o prazo estabelecido implica na reprovação do estudante;  
+- encaminhamentos que não forem feitos (para o Pré-Projeto e Projeto) em até no máximo 3 dias após o prazo estabelecido implica na reprovação do estudante na disciplina;  
 - todos os arquivos encaminhados devem ser em formato "docx".  
   
 **ATENÇÃO**: sempre antes de encaminhar a entrega gere do arquivo "docx" um arquivo em "pdf" para verificar senão ocorreu nenhum erro.  
@@ -23,10 +23,9 @@ Dia da semana:  Quintas (20:20\~22:00)
   
 | Atividade | Prazo |  
 |--- | ---- |  
-| Entrega do Termo de Compromisso |  12-08-2024  |  
-| Entrega do pré-projeto (curso de SIS) |  30-09-2024  |  
-| Entrega do Projeto |  25-11-2024  |  
-|  |  
+| Entrega do Termo de Compromisso |   06-03-2025  |  
+| Entrega do pré-projeto (curso de SIS) |   24-04-2025  |  
+| Entrega do Projeto |   12-06-2025  |  
   
 ## Cronograma Gantt  
   
@@ -38,150 +37,109 @@ Dia da semana:  Quintas (20:20\~22:00)
   
 ## Cronograma Completo  
   
-### Aula_01 05-08-2024  ( segunda-feira )  
+### Aula_01 20-02-2025  ( quinta-feira )  
   
 <!-- \[AVISO] Termo atraso https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67011391 -->  
 - [aula01Anotacoes](../Aulas/aula01Anotacoes.md "aula01Anotacoes")  
 - [aula01Slides](../Aulas/aula01Slides.pdf "aula01Slides")  
-- [aula02Anotacoes](../Aulas/aula02Anotacoes.md "aula02Anotacoes")  
-- [aula02Slides](../Aulas/aula02Slides.pdf "aula02Slides")  
 - Termo - Formulação  
   
-### Aula_02 12-08-2024  ( segunda-feira )  
+### Aula_02 27-02-2025  ( quinta-feira )  
   
-- **Entrega do Termo de Compromisso de TCC**  
+- [aula02Anotacoes](../Aulas/aula02Anotacoes.md "aula02Anotacoes")  
+- [aula02Slides](../Aulas/aula02Slides.pdf "aula02Slides")  
+  
+### Aula_03 06-03-2025  ( quinta-feira )  
+  
+> [!CAUTION]  
+> **Entrega do Termo de Compromisso de TCC**  
+  
 - [aula03Anotacoes](../Aulas/aula03Anotacoes.md "aula03Anotacoes")  
 - [aula03Slides](../Aulas/aula03Slides.pdf "aula03Slides")  
 - Pré-Projeto - Formulação  
   
-### Aula_03 19-08-2024  ( segunda-feira )  
+### Aula_04 13-03-2025  ( quinta-feira )  
   
 <!-- \[AVISO] Orientadores https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67524750 -->  
 - [aula04Anotacoes](../Aulas/aula04Anotacoes.md "aula04Anotacoes")  
 - [aula04Slides](../Aulas/aula04Slides.pdf "aula04Slides")  
 - Pré-Projeto - Formulação  
   
-### Aula_04 26-08-2024  ( segunda-feira )  
+### Aula_05 20-03-2025  ( quinta-feira )  
   
-<!-- \[AVISO] banca BCC -->  
+<!-- \[AVISO] banca SIS https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445813 -->  
 - [aula05Anotacoes](../Aulas/aula05Anotacoes.md "aula05Anotacoes")  
 - Pré-Projeto - Formulação  
   
-### Aula_05 02-09-2024  ( segunda-feira )  
-  
-- **não tem aula**  - Feriado: Município de Blumenau  
-  
-### Aula_06 09-09-2024  ( segunda-feira )  
+### Aula_06 27-03-2025  ( quinta-feira )  
   
 <!-- \[AVISO] Atendimento SIS: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-85660899 -->  
 - Pré-Projeto - Atendimento Individual  
-
-20:20\~21:00 Terminar [aula05Anotacoes](../Aulas/aula05Anotacoes.md "")  
+![Atendimento SIS](../Cronogramas/AtendimentoSIS_A.png "Atendimento SIS”)  
   
-21:00\~21:05 Gustavo Gonçalves  
-21:05\~21:10 Vítor Gabriel Eduardo  
-21:10\~21:15 Bruna Lauschner  
-21:15\~21:20 Gabriel Theindl Dallarosa  
-21:20\~21:25 Kaue Reblin  
-21:25\~21:30 Nicole Taufenbach  
-21:30\~21:35 João Arthur Pereira Alba  
-21:35\~21:40 Victor Do Amaral  
-21:40\~21:45 Mauros Milach Junior  
-  
-### Aula_07 16-09-2024  ( segunda-feira )  
+### Aula_07 03-04-2025  ( quinta-feira )  
   
 - Pré-Projeto - Atendimento Individual  
-
-20:20\~20:30 Inicio da aula  
-
-20:30\~20:35 Victor Weiers Krepsky  
-20:35\~20:40 Mauros Milach Junior  
-20:40\~20:45 Nicole Bauchspiess  
-20:45\~20:50 Rodrigo Kapulka Franco  
-20:50\~20:55 Alexandre Zeni  
-20:55\~21:00 Nathan Gabriel Piran  
-21:00\~21:05 Leonardo Souza Nunes  
-21:05\~21:10 Henrique Feliciano de Azevedo  
-21:10\~21:15 Leonardo Linhares Silva  
-21:15\~21:20 Vinícius Zoz  
-21:20\~21:25 Maria Eduarda Krutzsch  
-21:25\~21:30 Arthur Bezerra Pinotti  
-21:30\~21:35 Leonardo Oliani Fernandes  
-21:35\~21:40 Bruno Gabriel de Sousa  
-21:40\~21:45 Hiago Campregher  
-21:45\~21:50 Leonardo André Lange  
-21:50\~21:55 Lorhan Felipe Melo  
+![Atendimento SIS](../Cronogramas/AtendimentoSIS_B.png "Atendimento SIS”)  
   
-### Aula_08 23-09-2024  ( segunda-feira )  
+### Aula_08 10-04-2025  ( quinta-feira )  
   
 - Pré-Projeto - Atendimento Individual  
-
-20:20\~20:30 Inicio da aula  
-
-20:30\~20:35 Leonardo De Oliveira  
-20:35\~20:40 Luan Lavandoski Guarnieri  
-20:40\~20:45 Matheus Filipe dos Santos Reinert  
-20:45\~20:50 Rossana Rocha da Silva  
-20:50\~20:55 Gabriel Toniolo Picaz  
-20:55\~21:00 Gabriel Adriano Rodrigues  
-21:00\~21:05 Pedro Schumann  
-21:05\~21:10 Bruno Hugo Knaesel  
-21:10\~21:15 João Henrique Cardoso Bragantino  
-21:15\~21:20 Thomas Anderson Rodrigues  
-21:20\~21:25 Bernardo Kretzer  
-21:25\~21:30 Pedro Henrique de Oliveira Cintra  
-21:30\~21:35 Luiz Gustavo Klitzke  
-21:35\~21:40 Vinícius Matiola Tramontin  
-21:40\~21:45 Julia Letícia Trapp  
-21:45\~21:50 Ana Caroline Cipriani dos Santos  
+![Atendimento SIS](../Cronogramas/AtendimentoSIS_C.png "Atendimento SIS”)  
   
-### Aula_09 30-09-2024  ( segunda-feira )  
+### Aula_09 17-04-2025  ( quinta-feira )  
   
-- **Entrega do Pré-Projeto (SIS)**  
-- [aula09AnotacoesSIS](../Aulas/aula09AnotacoesSIS.md "aula09AnotacoesSIS")  
-- **não tem aula**  - Congresso SBGames / SVR / Sibgraphi (Manaus)  
+- **não tem aula**  - Feriado: Páscoa  
   
-### Aula_10 07-10-2024  ( segunda-feira )  
+### Aula_10 24-04-2025  ( quinta-feira )  
   
-- **não tem aula**  - SEMINCO  
+> [!CAUTION]  
+> **Entrega do Pré-Projeto (SIS)**  
   
-### Aula_11 14-10-2024  ( segunda-feira )  
+- Pré-Projeto - Atendimento: entrega pré-projeto  
+  
+### Aula_11 01-05-2025  ( quinta-feira )  
   
 <!-- \[ ] Revisão dos Pré-Projetos: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-86157761 -->  
 - Revisão dos Pré-Projetos pelos professores de TCC1 e avaliadores.  
-- **não tem aula**  
+- **não tem aula**  - Feriado: Dia do Trabalhador  
   
-### Aula_12 21-10-2024  ( segunda-feira )  
+### Aula_12 08-05-2025  ( quinta-feira )  
   
 - Revisão dos Pré-Projetos pelos professores de TCC1 e avaliadores.  
 - **não tem aula**  
   
-### Aula_13 28-10-2024  ( segunda-feira )  
+### Aula_13 15-05-2025  ( quinta-feira )  
   
-- **não tem aula**  - Feriado: Dia do Servidor Público  
+- Revisão dos Pré-Projetos pelos professores de TCC1 e avaliadores.  
+- **não tem aula**  
   
-### Aula_14 04-11-2024  ( segunda-feira )  
+### Aula_14 22-05-2025  ( quinta-feira )  
   
 - [aula13Anotacoes](../Aulas/aula13Anotacoes.md "aula13Anotacoes")  
 - Análise do Pré-Projeto - Atendimento Individual  
   
-### Aula_15 11-11-2024  ( segunda-feira )  
+### Aula_15 29-05-2025  ( quinta-feira )  
   
 - Análise do Pré-Projeto - Atendimento Individual  
   
-### Aula_16 18-11-2024  ( segunda-feira )  
+### Aula_16 05-06-2025  ( quinta-feira )  
   
 - Análise do Pré-Projeto - Atendimento Individual  
   
-### Aula_17 25-11-2024  ( segunda-feira )  
+### Aula_17 12-06-2025  ( quinta-feira )  
   
-- **Entrega do Projeto**  
-- Avaliação dos Projetos (banca)  
-  
-### Aula_18 02-12-2024  ( segunda-feira )  
+> [!CAUTION]  
+> **Entrega do Projeto**  
   
 - Avaliação dos Projetos (banca)  
+  
+### Aula_18 19-06-2025  ( quinta-feira )  
+  
+- Avaliação dos Projetos (banca)  
+- **não tem aula**  - Feriado: Corpus-Christi  
   
 <!-- [ ] Aviso: DION: fechar notas <> -->  
 - Data final para devolução dos projetos pelos avaliadores:  04/07/23  
-Último dia para entregar os diários de classe 2024/2: 30/11/24 - 10/12/24  
+Último dia para entregar os diários de classe 2025/1: 18/06/25 - 02/07/25  
+  
