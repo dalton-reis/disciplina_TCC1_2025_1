@@ -26,7 +26,6 @@ Dia da semana:   Quintas (18:30\~20:10)
 | Entrega do Termo de Compromisso |   27-02-2025  |  
 | Entrega do pré-projeto (curso de BCC) |   17-04-2025  |  
 | Entrega do Projeto |   12-06-2025  |  
-|   |  
   
 ## Cronograma Gantt  
   
