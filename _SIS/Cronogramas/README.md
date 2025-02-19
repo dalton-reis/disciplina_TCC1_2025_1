@@ -1,7 +1,7 @@
-# Cronograma:   2025-1 BCC  
+# Cronograma:   2025-1 SIS  
   
 Local:   Remoto (MS-Teams)  
-Dia da semana:   Quintas (18:30\~20:10)  
+Dia da semana:   Quintas (20:20\~22:00)  
   
 <!-- [ ] Aviso: Inicio das aulas <> -->  
   
