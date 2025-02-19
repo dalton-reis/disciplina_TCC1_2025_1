@@ -51,7 +51,8 @@ Dia da semana:   Quintas (18:30\~20:10)
   
 ### Aula_03 06-03-2025  ( quinta-feira )  
   
-- **Entrega do Termo de Compromisso de TCC**  
+> [!CAUTION]
+> **Entrega do Termo de Compromisso de TCC**  
 - [aula03Anotacoes](../Aulas/aula03Anotacoes.md "aula03Anotacoes")  
 - [aula03Slides](../Aulas/aula03Slides.pdf "aula03Slides")  
 - Pré-Projeto - Formulação  
@@ -72,8 +73,7 @@ Dia da semana:   Quintas (18:30\~20:10)
 ### Aula_06 27-03-2025  ( quinta-feira )  
   
 <!-- \[AVISO] Atendimento BCC: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-85660899 -->  
-> [!CAUTION]
-> Pré-Projeto - Atendimento Individual  
+- Pré-Projeto - Atendimento Individual  
 ![Atendimento BCC](../Cronogramas/AtendimentoBCC_A.png "Atendimento BCC")  
   
 ### Aula_07 03-04-2025  ( quinta-feira )  
