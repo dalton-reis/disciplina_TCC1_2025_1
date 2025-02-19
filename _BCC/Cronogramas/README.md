@@ -23,9 +23,10 @@ Dia da semana:   Quintas (18:30\~20:10)
   
 | Atividade | Prazo |  
 |--- | ---- |  
-| Entrega do Termo de Compromisso |   06-03-2025  |  
-| Entrega do pré-projeto (curso de BCC) |   24-04-2025  |  
+| Entrega do Termo de Compromisso |   27-02-2025  |  
+| Entrega do pré-projeto (curso de BCC) |   17-04-2025  |  
 | Entrega do Projeto |   12-06-2025  |  
+|   |  
   
 ## Cronograma Gantt  
   
@@ -87,8 +88,7 @@ Dia da semana:   Quintas (18:30\~20:10)
   
 ### Aula_09 17-04-2025  ( quinta-feira )  
   
-- Pré-Projeto - Atendimento Individual  
-![Atendimento BCC](../Cronogramas/AtendimentoBCC_C.png "Atendimento BCC")  
+- **não tem aula**  - Feriado: Páscoa  
   
 ### Aula_10 24-04-2025  ( quinta-feira )  
   
@@ -99,7 +99,7 @@ Dia da semana:   Quintas (18:30\~20:10)
   
 <!-- \[ ] Revisão dos Pré-Projetos: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-86157761 -->  
 - Revisão dos Pré-Projetos pelos professores de TCC1 e avaliadores.  
-- **não tem aula**  
+- **não tem aula**  - Feriado: Dia do Trabalhador  
   
 ### Aula_12 08-05-2025  ( quinta-feira )  
   
