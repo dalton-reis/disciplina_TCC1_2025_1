@@ -23,8 +23,8 @@ Dia da semana:   Quintas (18:30\~20:10)
   
 | Atividade | Prazo |  
 |--- | ---- |  
-| Entrega do Termo de Compromisso |   27-02-2025  |  
-| Entrega do pré-projeto (curso de BCC) |   17-04-2025  |  
+| Entrega do Termo de Compromisso |   06-03-2025  |  
+| Entrega do pré-projeto (curso de BCC) |   24-04-2025  |  
 | Entrega do Projeto |   12-06-2025  |  
   
 ## Cronograma Gantt  
@@ -51,8 +51,9 @@ Dia da semana:   Quintas (18:30\~20:10)
   
 ### Aula_03 06-03-2025  ( quinta-feira )  
   
-> [!CAUTION]
+> [!CAUTION]  
 > **Entrega do Termo de Compromisso de TCC**  
+
 - [aula03Anotacoes](../Aulas/aula03Anotacoes.md "aula03Anotacoes")  
 - [aula03Slides](../Aulas/aula03Slides.pdf "aula03Slides")  
 - Pré-Projeto - Formulação  
@@ -92,7 +93,9 @@ Dia da semana:   Quintas (18:30\~20:10)
   
 ### Aula_10 24-04-2025  ( quinta-feira )  
   
-- **Entrega do Pré-Projeto (BCC)**  
+> [!CAUTION]  
+> **Entrega do Pré-Projeto (BCC)**  
+
 - [aula09AnotacoesBCC](../Aulas/aula09AnotacoesBCC.md "aula09AnotacoesBCC")  
   
 ### Aula_11 01-05-2025  ( quinta-feira )  
@@ -126,7 +129,9 @@ Dia da semana:   Quintas (18:30\~20:10)
   
 ### Aula_17 12-06-2025  ( quinta-feira )  
   
-- **Entrega do Projeto**  
+> [!CAUTION]  
+> **Entrega do Projeto**  
+
 - Avaliação dos Projetos (banca)  
   
 ### Aula_18 19-06-2025  ( quinta-feira )  
