@@ -1,14 +1,14 @@
-# Cronograma:  2024-2 SIS  
+# Cronograma:  2025-1 SIS  
   
 Local:  Remoto (MS-Teams)  
-Dia da semana:  Terças (20:20\~22:00)  
+Dia da semana:  Quintas (20:20\~22:00)  
   
 <!-- [ ] Aviso: Inicio das aulas <> -->  
   
 ## Eventos  
   
-<!-- [Semana Acadêmica](https://github.com/dalton-reis/dalton-reis/blob/main/_._/semanaAcademica.md "Semana Acadêmica")  -->  
-[SEMINCO](https://github.com/dalton-reis/dalton-reis/blob/main/_._/seminco.md "SEMINCO")  
+[Semana Acadêmica](https://github.com/dalton-reis/dalton-reis/blob/main/_._/semanaAcademica.md "Semana Acadêmica")  
+<!-- [SEMINCO](https://github.com/dalton-reis/dalton-reis/blob/main/_._/seminco.md "SEMINCO")   -->
   
 ## Observações de Entrega  
   
