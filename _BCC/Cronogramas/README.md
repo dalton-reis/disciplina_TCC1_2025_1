@@ -72,7 +72,8 @@ Dia da semana:   Quintas (18:30\~20:10)
 ### Aula_06 27-03-2025  ( quinta-feira )  
   
 <!-- \[AVISO] Atendimento BCC: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-85660899 -->  
-- Pré-Projeto - Atendimento Individual  
+> [!CAUTION]
+> Pré-Projeto - Atendimento Individual  
 ![Atendimento BCC](../Cronogramas/AtendimentoBCC_A.png "Atendimento BCC")  
   
 ### Aula_07 03-04-2025  ( quinta-feira )  
