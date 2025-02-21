@@ -1,4 +1,4 @@
-# disciplina_TCC1_2024_2
+# disciplina_TCC1_2025_1
 
 ## [Disciplina de Trabalho de Conclusão de Curso I - BCC](_BCC)
 
