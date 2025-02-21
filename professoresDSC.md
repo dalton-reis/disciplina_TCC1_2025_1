@@ -4,17 +4,22 @@
 
 | Professor                        | EMail             |           |  
 | -------------------------------- | ----------------  | --------- |  
+| Adriano Lopes da Silva Reis      | alsreis@furb.br   | Adriano   |  
 | Alexander Roberto Valdameri      | arv@furb.br       | Valdameri |  
 | André Felipe Bürge               | afburger@furb.br  | Andre     |  
 | Andreza Sartori                  | asartori@furb.br  | Andreza   |  
+| Artur Ricardo Bizon              | abizon@furb.br    | Bizon     |  
 | Aurélio Faustino Hoppe           | aureliof@furb.br  | Aurelio   |  
 | Dalton Solano dos Reis           | dalton@furb.br    | Dalton    |  
 | Danton Cavalcanti Franco Junior  | dfranco@furb.br   | Danton    |  
 | Everaldo Artur Grahl             | egrahl@furb.br    | Everaldo  |  
+| Fábio Luis Perez                 | fabiotek@furb.br  | Fabio     |
 | Francisco Adell Péricas          | pericas@furb.br   | Pericas   |  
+| Gabriel Vieira                   | gabrielv@furb.br  | Gabriel   |  
 | Gilvan Justino                   | gilvanj@furb.br   | Gilvan    |  
 | Jonathan Gil Müller              | jgmuller@furb.br  | Jonathan  |  
 | Joyce Martins                    | joyce@furb.br     | Joyce     |  
+| Leandro Werner Ribeiro           | lwribeiro@furb.br | Maka      |  
 | Luciana Pereira de Araújo Kohler | lpa@furb.br       | Luciana   |  
 | Maiko Rafael Spiess              | mspiess@furb.br   | Maiko     |  
 | Marcos Rodrigo Momo              | momo@furb.br      | Momo      |  
@@ -24,14 +29,13 @@
 | Robson Walter de Souza           | rwsouza@furb.br   | Robson    |  
 | Simone Erbs da Costa             | secosta@furb.br   | Simone    |  
 
-<!-- | Fábio Luis Perez                 | fabiotek@furb.br  | Fabio     | -->
+<!-- Jorge Adriano dos Santos -->
+<!-- Marcelo Luiz Jung -->
+<!-- Ricardo Voigt -->
+
 <!-- | Jan Charles Gross                | jcgross@furb.br   | Jan       | -->
-<!-- | Jéssica Stefanie Hausmann        | jhausmann@furb.br | Jessica   | -->
-<!-- | Jonathan Gil Müller              | jgmuller@furb.br  | Jonathan  |  -->
 <!-- | José Carlos Althoff              | jalthoff@furb.br  | Althoff   |  -->
 <!-- | Marcel Hugo                      | marcel@furb.br   | Marcel    |  -->
-<!-- | Ralf Schweder de Lima            |                   | Ralf      | -->
-<!-- | Samuel Cristhian Schwebel        |                   | Samuel    | -->
 <!-- | Sandoval Marinho da Costa        |                   | Sandoval  | -->
 <!-- | Timóteo Monteiro da Silva        |                   | Timoteo   | -->
 
