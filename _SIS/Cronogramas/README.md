@@ -74,17 +74,17 @@ Dia da semana:   Quintas (20:20\~22:00)
   
 <!-- \[AVISO] Atendimento SIS: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-85660899 -->  
 - Pré-Projeto - Atendimento Individual  
-![Atendimento SIS](../Cronogramas/AtendimentoSIS_A.png "Atendimento SIS”)  
+![Atendimento SIS](../Cronogramas/AtendimentoSIS_A.png "Atendimento SIS")  
   
 ### Aula_07 03-04-2025  ( quinta-feira )  
   
 - Pré-Projeto - Atendimento Individual  
-![Atendimento SIS](../Cronogramas/AtendimentoSIS_B.png "Atendimento SIS”)  
+![Atendimento SIS](../Cronogramas/AtendimentoSIS_B.png "Atendimento SIS")  
   
 ### Aula_08 10-04-2025  ( quinta-feira )  
   
 - Pré-Projeto - Atendimento Individual  
-![Atendimento SIS](../Cronogramas/AtendimentoSIS_C.png "Atendimento SIS”)  
+![Atendimento SIS](../Cronogramas/AtendimentoSIS_C.png "Atendimento SIS")  
   
 ### Aula_09 17-04-2025  ( quinta-feira )  
   
