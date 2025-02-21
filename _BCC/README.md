@@ -1,9 +1,9 @@
+# Disciplina de Trabalho de Conclusão de Curso I - BCC
+
 <!-- \[INICIO] atualizar -->
 [AVA3 BCC]: https://ava3.furb.br/course/view.php?id=43862 "AVA3 BCC"  
 [Plano Ensino AVA BCC]: https://ava3.furb.br/course/view.php?id=43862&section=1 "Plano Ensino AVA BCC"  
 [Aulas MS-Teams BCC]: https://teams.microsoft.com/l/meetup-join/19%3aUISm_ASdmfFidNDKtYW6MmoTDxeg8xpwBHgEvZ9bqC41%40thread.tacv2/1708969759016?context=%7b%22Tid%22%3a%220c2d222a-ecda-4b70-960a-acef6ced3052%22%2c%22Oid%22%3a%226af4c44a-d9df-45de-a1b2-d9ee411f495f%22%7d "Aulas MS-Teams BCC"  
-
-# Disciplina de Trabalho de Conclusão de Curso I - BCC
 
 Olá, seja bem vindo .. 😁  
 
