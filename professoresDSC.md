@@ -4,7 +4,6 @@
 
 | Professor                        | EMail             |           |  
 | -------------------------------- | ----------------  | --------- |  
-| Adriano Lopes da Silva Reis      | alsreis@furb.br   | Adriano   |  
 | Alexander Roberto Valdameri      | arv@furb.br       | Valdameri |  
 | André Felipe Bürge               | afburger@furb.br  | Andre     |  
 | Andreza Sartori                  | asartori@furb.br  | Andreza   |  
@@ -15,7 +14,6 @@
 | Everaldo Artur Grahl             | egrahl@furb.br    | Everaldo  |  
 | Fábio Luis Perez                 | fabiotek@furb.br  | Fabio     |
 | Francisco Adell Péricas          | pericas@furb.br   | Pericas   |  
-| Gabriel Vieira                   | gabrielv@furb.br  | Gabriel   |  
 | Gilvan Justino                   | gilvanj@furb.br   | Gilvan    |  
 | Jonathan Gil Müller              | jgmuller@furb.br  | Jonathan  |  
 | Joyce Martins                    | joyce@furb.br     | Joyce     |  
@@ -33,6 +31,8 @@
 <!-- Marcelo Luiz Jung -->
 <!-- Ricardo Voigt -->
 
+<!-- | Adriano Lopes da Silva Reis      | alsreis@furb.br   | Adriano   |   -->
+<!-- | Gabriel Vieira                   | gabrielv@furb.br  | Gabriel   |   -->
 <!-- | Jan Charles Gross                | jcgross@furb.br   | Jan       | -->
 <!-- | José Carlos Althoff              | jalthoff@furb.br  | Althoff   |  -->
 <!-- | Marcel Hugo                      | marcel@furb.br   | Marcel    |  -->
