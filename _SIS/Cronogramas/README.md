@@ -41,7 +41,6 @@ Dia da semana:   Quintas (20:20\~22:00)
   
 <!-- \[AVISO] Termo atraso https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67011391 -->  
 - [aula01Anotacoes](../Aulas/aula01Anotacoes.md "aula01Anotacoes")  
-- [aula01Slides](../Aulas/aula01Slides.pdf "aula01Slides")  
 - Termo - Formulação  
   
 ### Aula_02 27-02-2025  ( quinta-feira )  
