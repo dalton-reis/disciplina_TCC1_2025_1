@@ -1,6 +1,6 @@
 <!-- \[INICIO] atualizar -->
-[AVA3 SIS]: https://ava3.furb.br/course/view.php?id=43862 "AVA3 SIS"  
-[Plano Ensino AVA SIS]: https://ava3.furb.br/course/view.php?id=43862&section=1 "Plano Ensino AVA SIS"  
+[AVA3 SIS]: https://ava3.furb.br/course/view.php?id=47761 "AVA3 SIS"  
+[Plano Ensino AVA SIS]: https://ava3.furb.br/course/view.php?id=47761&section=1 "Plano Ensino AVA SIS"  
 [Aulas MS-Teams SIS]: https://teams.microsoft.com/l/meetup-join/19%3acthLWy5OchWMsER8ZrJRWgj9Rv6WO7EhPFgf7AYyFBY1%40thread.tacv2/1708969647344?context=%7b%22Tid%22%3a%220c2d222a-ecda-4b70-960a-acef6ced3052%22%2c%22Oid%22%3a%226af4c44a-d9df-45de-a1b2-d9ee411f495f%22%7d "Aulas MS-Teams SIS"  
 
 # Disciplina de Trabalho de Conclusão de Curso I - SIS
