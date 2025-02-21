@@ -1,7 +1,7 @@
 # Aula01: Visão Geral da Disciplina
 
 <!-- \[INICIO] atualizar -->
-[AVA3 BCC]: https://ava3.furb.br/course/view.php?id=47760 "AVA3 BCC"  
+[AVA3 BCC]: https://ava3.furb.br/course/view.php?id=47760&section=0 "AVA3 BCC"  
 [Plano Ensino AVA BCC]: https://ava3.furb.br/course/view.php?id=47760&section=1 "Plano Ensino AVA BCC"  
 
 - Apresentação do Professor  
