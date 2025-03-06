@@ -53,7 +53,9 @@ Já as [Referências](./aula04Anotacoes.md#referências "Referências") é bom n
 
 #### Revisão Sistemática
 
-[Ver Exemplo dos artigos de TCC2](../Exemplos/z_TCC2_Artigos/)  
+Pesquisa em fontes "fortes"  
+Cuidado com material muito antigo  
+Classificar e se organizar  
 
 #### Síntese Dos Trabalhos Correlatos
 
