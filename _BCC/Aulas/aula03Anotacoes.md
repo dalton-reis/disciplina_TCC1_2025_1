@@ -66,7 +66,7 @@ Classificar e se organizar
 
 - descrição do sistema atual  
 Caso o seu TCC seja uma continuação de um TCC anterior se tem uma seção a mais depois da seção dos trabalhos correlatos.
-[Ver Exemplo](../Exemplos/3_Projetos/Projeto_NataliaSensWeise.pdf)  
+[Ver Exemplo](../Exemplos/1_Projetos/DaltonSolanoDosReis_NataliaSensWeise_Projeto.pdf)  
 
 ## Exemplos de Pré-Projetos
 
