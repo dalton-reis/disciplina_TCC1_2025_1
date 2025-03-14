@@ -74,18 +74,42 @@ Dia da semana:   Quintas (20:20\~22:00)
   
 <!-- \[AVISO] Atendimento SIS: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-85660899 -->  
 - Pré-Projeto - Atendimento Individual  
-![Atendimento SIS](../Cronogramas/AtendimentoSIS_A.png "Atendimento SIS")  
+
+| Horário | Aluno |
+| -- | --- |  
+| 20:40~20:50 | Gustavo Luiz Stahnke |
+| 20:50~21:00 | Guilherme Weingaertner |
+| 21:00~21:10 | André Felipe Reus Gunther |
+| 21:10~21:20 | Alexandre Silva Zabel |
+| 21:20~21:30 | Bruna Jansen |
+| 21:30~21:40 | Gabriel Milke Schmoeller |
   
 ### Aula_07 03-04-2025  ( quinta-feira )  
   
 - Pré-Projeto - Atendimento Individual  
-![Atendimento SIS](../Cronogramas/AtendimentoSIS_B.png "Atendimento SIS")  
+
+| Horário | Aluno |
+| -- | --- |  
+| 20:40~20:50 | Helena Teodora Zimmermann |
+| 20:50~21:00 | Maria Eugênia Schnaider |
+| 21:00~21:10 | Breno Spagnolo Da Rosa |
+| 21:10~21:20 | Ana Paula Kliemann |
+| 21:20~21:30 | Maria Eduarda Dias Corrêa Redes |
+| 21:30~21:40 | Claudia Emilly Schluetter |
   
 ### Aula_08 10-04-2025  ( quinta-feira )  
   
 - Pré-Projeto - Atendimento Individual  
-![Atendimento SIS](../Cronogramas/AtendimentoSIS_C.png "Atendimento SIS")  
-  
+
+| Horário | Aluno |
+| -- | --- |  
+| 20:40~20:50 | Ariel Louise Bieging |
+| 20:50~21:00 | Pedro Cauê Pauli |
+| 21:00~21:10 | Nicole Fernanda Rodrigues Alves |
+| 21:10~21:20 | Matheus Guilherme Jacinto |
+| 21:20~21:30 | Gustavo Verdi Cristofolini |
+| 21:30~21:40 | Matheus Leopoldo dos Santos Boing |
+
 ### Aula_09 17-04-2025  ( quinta-feira )  
   
 - **não tem aula**  - Feriado: Páscoa  

@@ -74,17 +74,43 @@ Dia da semana:   Quintas (18:30\~20:10)
   
 <!-- \[AVISO] Atendimento BCC: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-85660899 -->  
 - Pré-Projeto - Atendimento Individual  
-![Atendimento BCC](../Cronogramas/AtendimentoBCC_A.png "Atendimento BCC")  
-  
+
+| Horário | Aluno |
+| -- | --- |  
+| 19:00~19:10 | Leonardo Gian Pottmayer |
+| 19:10~19:20 | João Martinho Schneider da Silva e Souza |
+| 19:20~19:30 | Gustavo Baroni Bruder |
+| 19:30~19:40 | Eduardo Brandt Silveira Da Silva |
+| 19:40~19:50 | Rael dos Santos Nehring |
+| 19:50~20:00 | Mateus Henrique Maas |
+| 20:00~20:10 | Thiago Vogt da Silva |
+
 ### Aula_07 03-04-2025  ( quinta-feira )  
   
 - Pré-Projeto - Atendimento Individual  
-![Atendimento BCC](../Cronogramas/AtendimentoBCC_B.png "Atendimento BCC")  
+
+| Horário | Aluno |
+| -- | --- |  
+| 19:00~19:10 | Kelvin Fernando Silva Leite |
+| 19:10~19:20 | Vinicius Rafael Da Silveira |
+| 19:20~19:30 | Luana Caroline Schmidt |
+| 19:30~19:40 | Ana Carolina da Silva |
+| 19:40~19:50 | Rafael Barbosa Kretzer |
+| 19:50~20:00 | Maria Clara França |
+| 20:00~20:10 | Adriel Wippel |
   
 ### Aula_08 10-04-2025  ( quinta-feira )  
   
 - Pré-Projeto - Atendimento Individual  
-![Atendimento BCC](../Cronogramas/AtendimentoBCC_C.png "Atendimento BCC")  
+
+| Horário | Aluno |
+| -- | --- |  
+| 19:00~19:10 | Renato Müller Reinhold |
+| 19:10~19:20 | Maurício Mafra Monnerat |
+| 19:20~19:30 | Nadir José Rafagnim |
+| 19:30~19:40 | Thomas Anderson Rodrigues |
+| 19:40~19:50 | Nícolas Zimermann |
+| 19:50~20:00 | Ricardo Wehmuth Berndt |
   
 ### Aula_09 17-04-2025  ( quinta-feira )  
   
