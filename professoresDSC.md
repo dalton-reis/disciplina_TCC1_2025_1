@@ -27,9 +27,10 @@
 | Robson Walter de Souza           | rwsouza@furb.br   | Robson    |  
 | Simone Erbs da Costa             | secosta@furb.br   | Simone    |  
 
-<!-- Jorge Adriano dos Santos -->
-<!-- Marcelo Luiz Jung -->
-<!-- Ricardo Voigt -->
+<!-- Jorge Adriano dos Santos [jorgeadriano@furb.br](mailto:jorgeadriano@furb.br) -->  
+<!-- Nodji Vasconcelos Ferreira Junior [nvferreira@furb.br](mailto:nvferreira@furb.br) -->  
+<!-- Ricardo Voigt [rvoigt@furb.br](mailto:rvoigt@furb.br) -->  
+<!-- Timóteo Monteiro da Silva [timoteos@furb.br](mailto:timoteos@furb.br) -->  
 
 <!-- | Adriano Lopes da Silva Reis      | alsreis@furb.br   | Adriano   |   -->
 <!-- | Gabriel Vieira                   | gabrielv@furb.br  | Gabriel   |   -->
