@@ -23,7 +23,7 @@
 !$Aula17 = "	2025-06-12	"
 !$Aula18 = "	2025-06-19	"
 !$Aula18 = $dataFim		
-!$dataAtual  = $Aula04
+!$dataAtual  = $Aula05
 /'atualizar'/
 
 
