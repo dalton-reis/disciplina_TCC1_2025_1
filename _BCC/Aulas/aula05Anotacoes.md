@@ -43,7 +43,7 @@ Basicamente se usam apenas três normas: a NBR 10520:2002, que trata da citaçã
 trabalho.
 
 Material da biblioteca da FURB: <https://www.furb.br/web/5265/servicos/biblioteca/guia-do-usuario/normalizacao-abnt>.  
-**Cuidado**: [Atualizações da norma de Citações](ABNTatualizacoes_2023.pdf).  
+**Cuidado**: [Atualizações da norma de Citações](../Consulta/ABNTatualizacoes_2023.pdf).  
 
 - comentar sobre as citações e citações direta  
 - os dois tipos de citações  
