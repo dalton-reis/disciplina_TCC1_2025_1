@@ -77,12 +77,12 @@ Dia da semana:   Quintas (20:20\~22:00)
 
 | Horário | Aluno |
 | -- | --- |  
-| 20:40~20:50 | Gustavo Luiz Stahnke |
+| 20:40~20:50 | Gustavo Luiz Stahnke e Mauro Fialho Luz e Souza |
 | 20:50~21:00 | Guilherme Weingaertner |
-| 21:00~21:10 | André Felipe Reus Gunther |
-| 21:10~21:20 | Alexandre Silva Zabel |
+| 21:00~21:10 | André Felipe Reus Gunther e Jean Carlos Kuzava |
+| 21:10~21:20 | Alexandre Silva Zabel e Bruno Ferrari Vincensi |
 | 21:20~21:30 | Bruna Jansen |
-| 21:30~21:40 | Gabriel Milke Schmoeller |
+| 21:30~21:40 | Gabriel Milke Schmoeller e Thiago Frederico Karsten |
   
 ### Aula_07 03-04-2025  ( quinta-feira )  
   
@@ -90,10 +90,10 @@ Dia da semana:   Quintas (20:20\~22:00)
 
 | Horário | Aluno |
 | -- | --- |  
-| 20:40~20:50 | Helena Teodora Zimmermann |
-| 20:50~21:00 | Maria Eugênia Schnaider |
+| 20:40~20:50 | Helena Teodora Zimmermann e Luiza Lucinda Theiss |
+| 20:50~21:00 | Maria Eugênia Schnaider e Victor Matheus Kruger |
 | 21:00~21:10 | Breno Spagnolo Da Rosa |
-| 21:10~21:20 | Ana Paula Kliemann |
+| 21:10~21:20 | Ana Paula Kliemann e Maria Alice Sens Matos |
 | 21:20~21:30 | Maria Eduarda Dias Corrêa Redes |
 | 21:30~21:40 | Claudia Emilly Schluetter |
   
@@ -103,9 +103,9 @@ Dia da semana:   Quintas (20:20\~22:00)
 
 | Horário | Aluno |
 | -- | --- |  
-| 20:40~20:50 | Ariel Louise Bieging |
+| 20:40~20:50 | Ariel Louise Bieging e Gabriel Arevalo Esteves |
 | 20:50~21:00 | Pedro Cauê Pauli |
-| 21:00~21:10 | Nicole Fernanda Rodrigues Alves |
+| 21:00~21:10 | Nicole Fernanda Rodrigues Alves e Thaís Jandre |
 | 21:10~21:20 | Matheus Guilherme Jacinto |
 | 21:20~21:30 | Gustavo Verdi Cristofolini |
 | 21:30~21:40 | Matheus Leopoldo dos Santos Boing |

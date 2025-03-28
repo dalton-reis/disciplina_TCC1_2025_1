@@ -68,7 +68,7 @@ Atendimento da bibliotecária para tirar dúvidas sobre normas da ABNT, por exem
 Enviar e-mail para <periodicos@furb.br> para agendar dia/horário.  
 De preferência atendimento presencial, mas na impossibilidade pode ser pelo MS-Teams.  
 
-- sites para formatar [More-UFSC](https://more.ufsc.br/inicio "More-UFSC"), [Mendeley](https://www.mendeley.com "Mendeley"), [ResearchGate](https://www.researchgate.net "ResearchGate"), [Research Rabbit](https://researchrabbitapp.com "Research Rabbit"), [Zotero](https://www.zotero.org "Zotero") etc.  
+- sites para formatar [More-UFSC](https://more.ufsc.br/inicio "More-UFSC"), [Mendeley](https://www.mendeley.com "Mendeley"), [ResearchGate](https://www.researchgate.net "ResearchGate"), [Research Rabbit](https://researchrabbitapp.com "Research Rabbit"), [LitMaps](https://www.litmaps.com "LitMaps"), [Zotero](https://www.zotero.org "Zotero") etc.  
 
 ### More-UFSC
 
