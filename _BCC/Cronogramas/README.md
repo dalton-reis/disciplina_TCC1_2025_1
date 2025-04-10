@@ -109,7 +109,7 @@ Dia da semana:   Quintas (18:30\~20:10)
 | 19:10~19:20 | Maurício Mafra Monnerat |
 | 19:20~19:30 | Nadir José Rafagnim |
 | 19:30~19:40 | Thomas Anderson Rodrigues |
-| 19:40~19:50 | Nícolas Zimermann |
+<!-- | 19:40~19:50 | Nícolas Zimermann | CANCELOU a disciplina   -->
 | 19:50~20:00 | Ricardo Wehmuth Berndt |
   
 ### Aula_09 17-04-2025  ( quinta-feira )  
