@@ -25,7 +25,7 @@
 !$Aula18 = "	2025-06-19	"
 !$Aula18 = $dataFim		
 
-!$dataAtual  = $Aula08
+!$dataAtual  = $Aula09
 /'atualizar'/
 
 ganttscale weekly
